@@ -6,7 +6,7 @@ Shows the weather in your system tray (currently only for Canadian location)
 System Requirements
 -------------------
 
-[JRE 7])(http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html) 
+[JRE 7](http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html) 
 
 Build status
 ------------
